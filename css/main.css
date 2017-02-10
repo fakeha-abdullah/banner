@@ -32,9 +32,8 @@ html {
 
 .banner-content {
   position: absolute;
-  left: 1rem;
+  left: 0;
   bottom: 0;
   color: #fff;
-  overflow: hidden;
-  max-height: 24em;
+  width: 100%;
 }
